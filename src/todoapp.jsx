@@ -32,8 +32,8 @@ const Todoapp = () => {
 
     return (
       <div className='margin-auto pt-4'>
-        <h1 className='text-center text-4xl font-bold'>Todo-App</h1>
-        <div className="container mx-auto py-8">
+        <h1 className='text-center text-4xl font-bold mb-2'>Todo-App</h1>
+        <div className="container mx-auto py-8 w-[100%] border-2 rounded px-4">
 
           <div className="flex mb-4">
             <input
